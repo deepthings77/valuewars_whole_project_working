@@ -1,10 +1,14 @@
 Valuwars - Online Auction Bidding Platform
 
-![Uploading Screenshot 2024-09-09 182805.png…]()
+![Screenshot 2024-09-09 182805](https://github.com/user-attachments/assets/e04f6e29-deba-4e4d-b93a-3fdb2513ce5d)
 
 
-![Uploading Screenshot 2024-09-09 182937.png…]()
-![Uploading Screenshot 2024-09-09 182848.png…]()
+![Screenshot 2024-09-09 182937](https://github.com/user-attachments/assets/a34d53cc-3a84-432f-a78a-d02109899848)
+
+
+![Screenshot 2024-09-09 182848](https://github.com/user-attachments/assets/86950cdc-de77-430a-a35d-92fa6e981a7a)
+
+
 
 
 Overview: Developed an online auction platform, "Valuwars," allowing users to participate as auctioneers or bidders, with a dedicated super admin dashboard for managing and tracking auctions.
